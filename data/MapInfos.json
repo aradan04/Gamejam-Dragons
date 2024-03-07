@@ -1,5 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":742,"scrollY":610},
-{"id":2,"expanded":false,"name":"Casa 2","order":2,"parentId":0,"scrollX":742,"scrollY":610}
+{"id":1,"expanded":true,"name":"Ciudad forestal","order":1,"parentId":0,"scrollX":816,"scrollY":1280},
+{"id":2,"expanded":false,"name":"Casa 2","order":2,"parentId":1,"scrollX":636,"scrollY":522.8571428571428},
+{"id":3,"expanded":false,"name":"Mansión (Interior)","order":3,"parentId":1,"scrollX":968.5714285714286,"scrollY":833.1428571428571},
+{"id":4,"expanded":false,"name":"Bosque","order":4,"parentId":1,"scrollX":622.2857142857142,"scrollY":690.8571428571428}
 ]
